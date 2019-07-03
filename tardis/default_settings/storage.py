@@ -40,3 +40,8 @@ METADATA_STORE_PATH = DEFAULT_STORAGE_BASE_DIR
 storage path for image paths stored in parameters. Better to set to another
 location if possible
 '''
+
+GUESS_STORAGE_BOX = True
+'''
+try to guess appropriate box from files, dataset or experiment
+'''
